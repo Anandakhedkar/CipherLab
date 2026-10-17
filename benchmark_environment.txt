@@ -1,0 +1,16 @@
+Cipher Performance Benchmark Environment
+=============================================
+Operating system: macOS-26.3-arm64-arm-64bit-Mach-O
+Machine architecture: arm64
+Processor description: arm
+Python version: 3.13.1 (v3.13.1:06714517797, Dec  3 2024, 14:00:22) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python implementation: CPython
+Logical CPU count: 8
+Warm-up runs: 3
+Measured repetitions: 30
+Operations per measured batch: 10
+
+Limitations:
+- Execution time is not a direct measurement of energy use.
+- This experiment does not measure electrical power.
+- Results depend on hardware, software, and system activity.
